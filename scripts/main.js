@@ -9,7 +9,7 @@ function rollover(my_image)
 function mouseaway(my_image)
     {
 
-        my_image.src = 'images/profile.JPG';
+        my_image.src = 'images/profile.jpg';
 
     }
 
